@@ -1,8 +1,0 @@
----
-layout: post
-title: ''
-link: 
----
-
-<p>Halla</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="IMG_3437.jpg" src="http://localhost:4040/uploads/IMG_3437.jpg" alt="IMG 3437" width="450" height="600" border="0" /></p>
