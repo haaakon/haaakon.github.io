@@ -5,10 +5,10 @@ Source code to my Github based blog
 
 #setup
 
-to run blog locally
+to run blog locally with utf-8 encoding (jekyll does something weird, probably since im norwegian and use strange characters sometimes)
 
 ```
-jekyll serve
+LC_ALL="en_US.UTF-8" jekyll serve
 ```
 
 To enable MarsEdit editing
